@@ -1,0 +1,6 @@
+{
+  "name": "EGB1201 Number System Converter",
+  "description": "Java 17+ Swing desktop application and interactive workbench for Binary, Octal, Decimal, and Hexadecimal number conversions with step-by-step mathematical derivations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
